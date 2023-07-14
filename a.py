@@ -1,6 +1,6 @@
 a=50
 b=70
-c=15
+c=100
 d=80
 
-print(a)
+print(c)
